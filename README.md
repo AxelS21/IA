@@ -1,4 +1,5 @@
 Trabajo Práctico 2 - Inteligencia Artificial
+
 Este repositorio contiene el Trabajo Práctico 2 de la materia de Inteligencia Artificial de la Universidad Siglo 21.
 
 Descripción del Problema
