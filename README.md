@@ -18,9 +18,11 @@ Conclusión: Elaborar una conclusión que sintetice el trabajo realizado, la opc
 Estructura del Repositorio
 
 TP2 Exhaustiva: Contiene la implementación del proceso de búsqueda exhaustiva.
-TP2 Huerística: Incluye la implementación del proceso de búsqueda heurística.
+
+TP2 Heurística: Incluye la implementación del proceso de búsqueda heurística.
 
 Este trabajo ha sido realizado de forma individual como parte de la evaluación del módulo 2 de la materia de Inteligencia Artificial.
 
 Referencias
+
 Los conceptos relacionados con los métodos de búsqueda en el espacio de estados son el foco principal del módulo 2 de la materia.
